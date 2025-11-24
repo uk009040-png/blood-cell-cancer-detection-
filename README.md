@@ -97,15 +97,5 @@ Metadata is in CSV.
 Preprocessing Advice:
 For reproducibility, you may want to apply the same preprocessing pipeline (resize, normalize) as used during model development.
 
-7. Licensing & Sharing
-
-License: Specify the license under which the dataset is shared (e.g., CC BY 4.0, MIT, or a custom license).
-
-Usage Restrictions:
-
-Data is to be used for non-commercial research only (if applicable).
-
-Attribution Required: Cite the dataset as: Your Name / Group (Year). Blood Cell Cancer Detection Dataset.
-
-Acknowledgments:
+7.Acknowledgments:
 Thank the people / institution / funding sources that helped in data collection.blood-cell-cancer-detection-
